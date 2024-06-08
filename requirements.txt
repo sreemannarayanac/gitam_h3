@@ -1,0 +1,7 @@
+langchain
+langchain_community
+openai
+pypdf
+streamlit
+sentence-transformers
+docarray
